@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🚀 Projects
 
 ### 🛡️ 1. SOC Home Lab & SIEM Investigation
